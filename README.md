@@ -1,5 +1,5 @@
 # Twitch Streamer Clip Finder
-## To use this program, follow the steps below:
+#### To use this program, follow the steps below:
 
 Step #1: 
 Get the urls from past Twith streams using urlSaver.py. To do this, navigate to a twitch streamer's past broadcasts, modify the streamer name in the python file (line 25), and run the file. Then hover over each stream you want to save, press "`" (top left on a keyboard), and finally, press "s" to save the moments to a file on your computer.
