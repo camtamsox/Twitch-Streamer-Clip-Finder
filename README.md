@@ -11,5 +11,6 @@ Step #3:
 Analyze the chat data using chatAnalyzerv2.py. Again, you must modify the code to make sure it has the correct streamer name. This is done on line 104. Once you run the file, it will look at all the chats and analyze them which will take some time. When it is done, it will automatically open a past stream and tell you the time where the funniest moment happened and the number of people laughing at that second. You can do the same thing but for "sus" moments by changing the find_funny_comments variable on line 106 to False.
 
 
+
 This program allowed me to gather many funny moments from several streamers which I then compiled and put on a YouTube channel. The channel currently has more than 60,000 total views.
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/a3a4d756-4ec9-4f2d-98ca-d3ec48ebc77e">
