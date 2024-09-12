@@ -14,3 +14,4 @@ Analyze the chat data using chatAnalyzerv2.py. Again, you must modify the code t
 #### Results
 This program allowed me to gather many funny moments from several Twitch streamers which I then compiled and put on a YouTube channel. The channel currently has more than 60,000 total views.
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/a3a4d756-4ec9-4f2d-98ca-d3ec48ebc77e">
+_Screenshot of the analytics page in YouTube Studio_
